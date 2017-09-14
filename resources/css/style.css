@@ -1,4 +1,38 @@
 body {
+  font-family: Helvetica;
+  text-align: Center;
+  color: Black;
+}
+
+
+#header {
+  background-image: url("/Users/Purchio/Desktop/broadway/resources/images/the-flatiron-building.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: padding-box;
+}
+
+
+h1 {
   color: White;
-  background-color: Black;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+
+h5 {
+  font-size:18px;
+  color: White;
+}
+
+#skyline {
+  background-image: url("/Users/Purchio/Desktop/broadway/resources/images/the-flatiron-building.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: padding-box;
+  font-size: 23px;
+  font-weight: bold;
+  color: White;
 }
